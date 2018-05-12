@@ -1,4 +1,3 @@
-//var friendData 		= require("../data/friends.js");
 var friends = require("../data/friends.js");
 var path = require("path");
 
@@ -19,7 +18,6 @@ module.exports = function(app){
 			matchDifference: 1000
 		};
 
-		console.log("greatMatch: "+ greatMatch);
 		var usrData 	= req.body;
 		var usrName 	= usrData.name;
 		var usrImage 	= usrData.image;

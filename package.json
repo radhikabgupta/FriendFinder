@@ -26,5 +26,6 @@
   "bugs": {
     "url": "https://github.com/radhikabgupta/FriendFinder/issues"
   },
-  "homepage": "https://github.com/radhikabgupta/FriendFinder#readme"
+  "homepage": "https://github.com/radhikabgupta/FriendFinder#readme",
+  "devDependencies": {}
 }
