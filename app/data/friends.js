@@ -23,7 +23,7 @@ var friends = [
     {
       "name": "Sam Winchester",
       "photo": "https://radhikabgupta.github.io/FriendFinder/assets/images/mhs_003.jpg",
-      "scores": [4, 5, 4, 5, 4, 5, 4, 5, 4, 5]
+      "scores": [1, 2, 3, 4, 5, 1, 2, 3, 4, 5]
     },
     {
       "name": "Emma Wilkins",
@@ -38,7 +38,7 @@ var friends = [
     {
       "name": "Sue Wilkins",
       "photo": "https://radhikabgupta.github.io/FriendFinder/assets/images/fmhs_004.jpg",
-      "scores": [1, 4, 1, 4, 1, 4, 1, 2, 1, 4]
+      "scores": [1, 3, 1, 2, 4, 4, 1, 5, 5, 4]
     },
   ]
   
